@@ -1,7 +1,3 @@
-Sure, here's a README file for your GitHub repository that explains your code and its usage:
-
----
-
 # Movie Recommendation System
 
 This repository contains code for building a movie recommendation system based on genre similarity using Python and scikit-learn.
@@ -53,11 +49,7 @@ To use this code, follow these steps:
 
 6. Customize the number of recommendations and other parameters as needed.
 
-## Example Usage
 
-Here's an example of how to use the code:
-
-```python
 # Get recommendations for a movie titled "Inception"
 recommended_genre_movies = get_genre_recommendations("Inception", cosine_sim_genres)
 
